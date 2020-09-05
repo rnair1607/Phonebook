@@ -1,0 +1,7 @@
+.btn-danger,
+.bg-danger,
+.badge-danger,
+.alert-danger {
+    background: #dc3545;
+    color: #fff;
+}
